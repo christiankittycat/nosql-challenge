@@ -1,1 +1,3 @@
-# nosql-challenge
+# nosql-challengeThis repository contains two Jupyter notebooks aimed at providing a foundational understanding of NoSQL databases through practical examples and exercises. The first notebook, NoSQL_setup_starter.ipynb, guides users through the initial setup of a NoSQL environment. It includes steps to install necessary libraries, connect to a NoSQL database, and perform basic operations such as creating databases and collections, as well as inserting and querying data.
+
+The second notebook, NoSQL_analysis_starter.ipynb, builds on the foundational setup by introducing more advanced data analysis techniques using NoSQL databases. Users will learn how to aggregate data, perform complex queries, and visualize the results using appropriate libraries. Both notebooks are designed to be beginner-friendly, with clear explanations and step-by-step instructions to ensure users can follow along and apply the concepts to their own projects.
